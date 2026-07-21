@@ -38,7 +38,7 @@ Currently building out this portfolio with projects from my CE degree and beyond
 
 ## 💼 Background
 
-- **Technical Solutions Engineer** @ Stilo Corporation — enterprise SaaS delivery for Fortune 500 + government clients, $3M+ new business, Python QA automation
+- **Technical Solutions Engineer** @ Stilo Corporation — enterprise SaaS delivery for Fortune 500 + government clients, Python QA automation
 - **Founder** @ Elevate Rentals — full operations, logistics, and client management
 - **Freelance Audio Engineer** — live events, studio, DSP and post-production since 2014
 
